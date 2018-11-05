@@ -41,7 +41,10 @@ class AmigoRecyclerAdapter internal constructor(context: Context) :
     private fun lista(): List<String> {
         return listOf(
                 "Mario",
-                "Maria"
+                "Maria",
+                "Jão",
+                "Jana",
+                "Ana"
         )
     }
 }
